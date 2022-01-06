@@ -1,0 +1,132 @@
+body{
+    margin: 0 auto;
+    width: 1200px;
+    background-color: #ddd;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+  }
+
+  section{
+    height: 500px;
+    padding-bottom: 150px;
+    float: left;
+  }
+
+  .top-banner{
+    background-image: url("images/top-background.png");
+    background-repeat: no-repeat;
+    background-color: #fefefe;
+  }
+
+  .mid-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #fefefe;
+  }
+
+  .banner-half{
+    max-width: 40%;
+    margin: 4%;
+    padding: 3%;
+    float: left;
+    box-sizing: border-box;
+  }
+
+  .banner-half img{
+    width: 100%;
+  }
+
+  h1{
+
+    font-size: 40px;
+
+  }
+
+  h2{
+
+    font-size: 30px;
+
+  }
+
+  #exp-heading{
+    padding-left: 50px;
+  }
+
+  p{
+    color: dimgray;
+    text-align: justify;
+    margin-bottom: 30px;
+  }
+
+  .gold-highlight{
+    color: goldenrod;
+  }
+
+  .btn{
+  
+    vertical-align: center;
+    text-decoration: none;
+    background-color: purple;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 5px;
+  }
+
+
+  #btn-special{
+    background-color: #161266;
+
+  }
+
+  .experience-aria{
+    padding-top: 50px;
+    padding-left: 50px;
+    background-image: url("images/experience-background.png");
+    background-repeat: no-repeat;
+    background-position: left; 
+    background-color: #fefefe;
+      
+  }
+
+  .single-experience{
+  
+    box-shadow: 5px 5px 20px gray;
+    background-color: #fefefe;
+    border-radius: 10px;
+    
+    
+  }
+
+  #full-stack{
+
+    border-left: 5px solid;
+   
+    border-image: linear-gradient(180deg, #f80759, #bc4e9c);
+    border-image-slice: 1;
+   
+  }
+
+  #front-end{
+
+    border-left: 5px solid;
+
+    border-image: linear-gradient(180deg, #021B79, #0575E6);
+    border-image-slice: 1;
+
+  }
+
+  footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+   background-color: #fefefe;
+    
+  }
+
+  footer p{
+    text-align: center;
+       
+  }
+
+
+
